@@ -1,5 +1,5 @@
-## Willie YANG
+# Willie YANG
 
-### About This Project
+## Introduction
 
-It is just logs about personal record.
++ This repository contains some posts about techs and my personal life. 
